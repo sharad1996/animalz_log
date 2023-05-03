@@ -1,0 +1,151 @@
+2023-03-15T01:23:51.774Z-line: /upload-file, cors() -> undefined
+2023-03-15T01:23:51.774Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:23:51.809Z-line: con: [object Object]
+2023-03-15T01:23:51.826Z-line: err: null
+2023-03-15T01:23:51.826Z-line: b: [object Object]
+2023-03-15T01:23:51.845Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T01:23:51.845Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:23:51.848Z-line: b: [object Object]
+2023-03-15T01:29:47.792Z-line: /upload-file, cors() -> undefined
+2023-03-15T01:29:47.792Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:29:47.833Z-line: con: [object Object]
+2023-03-15T01:29:47.851Z-line: err: null
+2023-03-15T01:29:47.851Z-line: b: [object Object]
+2023-03-15T01:29:47.872Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T01:29:47.872Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:29:47.874Z-line: b: [object Object]
+2023-03-15T01:39:37.813Z-line: /upload-file, cors() -> undefined
+2023-03-15T01:39:37.813Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:39:37.852Z-line: con: [object Object]
+2023-03-15T01:39:37.868Z-line: b: [object Object]
+2023-03-15T01:39:37.868Z-line: err: null
+2023-03-15T01:39:37.889Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:39:37.889Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T01:39:37.892Z-line: b: [object Object]
+2023-03-15T01:42:28.189Z-line: /upload-file, cors() -> undefined
+2023-03-15T01:42:28.189Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:42:28.225Z-line: con: [object Object]
+2023-03-15T01:42:28.241Z-line: b: [object Object]
+2023-03-15T01:42:28.241Z-line: err: null
+2023-03-15T01:42:28.259Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T01:42:28.259Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:42:28.261Z-line: b: [object Object]
+2023-03-15T01:44:25.125Z-line: /upload-file, cors() -> undefined
+2023-03-15T01:44:25.125Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:44:25.159Z-line: con: [object Object]
+2023-03-15T01:44:25.174Z-line: err: null
+2023-03-15T01:44:25.174Z-line: b: [object Object]
+2023-03-15T01:44:25.194Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T01:44:25.194Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T01:44:25.196Z-line: b: [object Object]
+2023-03-15T02:00:59.164Z-line: /upload-file, cors() -> undefined
+2023-03-15T02:00:59.164Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:00:59.200Z-line: con: [object Object]
+2023-03-15T02:00:59.217Z-line: err: null
+2023-03-15T02:00:59.217Z-line: b: [object Object]
+2023-03-15T02:00:59.236Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T02:00:59.236Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:00:59.238Z-line: b: [object Object]
+2023-03-15T02:04:18.786Z-line: /upload-file, cors() -> undefined
+2023-03-15T02:04:18.786Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:04:18.821Z-line: con: [object Object]
+2023-03-15T02:04:18.841Z-line: err: null
+2023-03-15T02:04:18.841Z-line: b: [object Object]
+2023-03-15T02:04:18.862Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:04:18.862Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T02:04:18.865Z-line: b: [object Object]
+2023-03-15T02:07:18.009Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:07:18.009Z-line: /upload-file, cors() -> undefined
+2023-03-15T02:07:18.043Z-line: con: [object Object]
+2023-03-15T02:07:18.058Z-line: b: [object Object]
+2023-03-15T02:07:18.058Z-line: err: null
+2023-03-15T02:07:18.076Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T02:07:18.076Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:07:18.079Z-line: b: [object Object]
+2023-03-15T02:07:55.506Z-line: /upload-file, cors() -> undefined
+2023-03-15T02:07:55.506Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:07:55.544Z-line: con: [object Object]
+2023-03-15T02:07:55.562Z-line: err: null
+2023-03-15T02:07:55.562Z-line: b: [object Object]
+2023-03-15T02:07:55.582Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:07:55.582Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T02:07:55.585Z-line: b: [object Object]
+2023-03-15T02:16:56.322Z-line: /upload-file, cors() -> undefined
+2023-03-15T02:16:56.322Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:16:56.362Z-line: con: [object Object]
+2023-03-15T02:16:56.381Z-line: err: null
+2023-03-15T02:16:56.381Z-line: b: [object Object]
+2023-03-15T02:16:56.403Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T02:16:56.403Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:16:56.406Z-line: b: [object Object]
+2023-03-15T02:19:48.030Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:19:48.030Z-line: con: [object Object]
+2023-03-15T02:19:48.030Z-line: /upload-file, cors() -> undefined
+2023-03-15T02:19:48.036Z-line: err: null
+2023-03-15T02:19:48.036Z-line: b: [object Object]
+2023-03-15T02:19:48.039Z-line: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T02:19:48.039Z-line: 32: /upload-file, cors() -> undefined
+2023-03-15T02:19:48.042Z-line: b: [object Object]
+2023-03-15T04:23:45.865Z-line: /, cors() -> undefined
+2023-03-15T04:23:46.793Z-line: /favicon.ico, cors() -> undefined
+2023-03-15T05:58:45.981Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T05:58:45.981Z-line: /sign_out, cors() -> undefined
+2023-03-15T05:58:46.023Z-line: con: [object Object]
+2023-03-15T05:58:46.042Z-line: err: null
+2023-03-15T05:58:46.042Z-line: b: [object Object]
+2023-03-15T05:58:46.067Z-line: 33: /sign_out, cors() -> undefined
+2023-03-15T05:58:46.067Z-line: req.body : [object Object]
+2023-03-15T05:58:46.067Z-line: Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T05:58:46.067Z-line: con : [object Object]
+2023-03-15T06:04:44.222Z-line: /uploadPost, cors() -> undefined
+2023-03-15T06:04:44.223Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T06:04:44.279Z-line: con: [object Object]
+2023-03-15T06:04:44.296Z-line: b: [object Object]
+2023-03-15T06:04:44.296Z-line: err: null
+2023-03-15T06:53:02.504Z-line: /uploadPost, cors() -> undefined
+2023-03-15T06:53:02.504Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T06:53:02.542Z-line: con: [object Object]
+2023-03-15T06:53:02.560Z-line: err: null
+2023-03-15T06:53:02.560Z-line: b: [object Object]
+2023-03-15T06:58:01.215Z-line: /sign_out, cors() -> undefined
+2023-03-15T06:58:01.268Z-line: con: [object Object]
+2023-03-15T06:58:01.215Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T06:58:01.290Z-line: b: [object Object]
+2023-03-15T06:58:01.290Z-line: err: null
+2023-03-15T06:58:01.316Z-line: 33: /sign_out, cors() -> undefined
+2023-03-15T06:58:01.316Z-line: Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T06:58:01.316Z-line: req.body : [object Object]
+2023-03-15T06:58:01.316Z-line: con : [object Object]
+2023-03-15T06:59:11.839Z-line: /sign_out, cors() -> undefined
+2023-03-15T06:59:11.839Z-line: con: [object Object]
+2023-03-15T06:59:11.839Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T06:59:11.845Z-line: err: null
+2023-03-15T06:59:11.845Z-line: b: [object Object]
+2023-03-15T06:59:11.849Z-line: 33: /sign_out, cors() -> undefined
+2023-03-15T06:59:11.849Z-line: req.body : [object Object]
+2023-03-15T06:59:11.849Z-line: Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T06:59:11.849Z-line: con : [object Object]
+2023-03-15T07:23:51.938Z-line: /sign_out, cors() -> undefined
+2023-03-15T07:23:51.938Z-line: con: [object Object]
+2023-03-15T07:23:51.938Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T07:23:51.942Z-line: err: null
+2023-03-15T07:23:51.942Z-line: b: [object Object]
+2023-03-15T07:23:51.947Z-line: 33: /sign_out, cors() -> undefined
+2023-03-15T07:23:51.947Z-line: req.body : [object Object]
+2023-03-15T07:23:51.947Z-line: Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T07:23:51.948Z-line: con : [object Object]
+2023-03-15T08:05:09.889Z-line: con: [object Object]
+2023-03-15T08:05:09.889Z-line: /uploadPost, cors() -> undefined
+2023-03-15T08:05:09.889Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T08:05:09.896Z-line: b: [object Object]
+2023-03-15T08:05:09.896Z-line: err: null
+2023-03-15T08:37:40.315Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T08:37:40.315Z-line: /uploadPost, cors() -> undefined
+2023-03-15T08:37:40.316Z-line: con: [object Object]
+2023-03-15T08:37:40.320Z-line: err: null
+2023-03-15T08:37:40.320Z-line: b: [object Object]
+2023-03-15T08:40:55.258Z-line: con: [object Object]
+2023-03-15T08:40:55.258Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-15T08:40:55.258Z-line: /uploadPost, cors() -> undefined
+2023-03-15T08:40:55.262Z-line: err: null
+2023-03-15T08:40:55.262Z-line: b: [object Object]

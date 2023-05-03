@@ -1,0 +1,9 @@
+2023-03-20T09:12:53.877Z-line: /sign_out, cors() -> undefined
+2023-03-20T09:12:53.877Z-line: Authorization: Bearer,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-20T09:12:53.917Z-line: con: [object Object]
+2023-03-20T09:12:53.937Z-line: b: [object Object]
+2023-03-20T09:12:53.937Z-line: err: null
+2023-03-20T09:12:53.961Z-line: 33: /sign_out, cors() -> undefined
+2023-03-20T09:12:53.961Z-line: req.body : [object Object]
+2023-03-20T09:12:53.961Z-line: Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOnRydWUsImFsaWFzIjoic2hfZ3ZQcUlkV1FoQUlJY21TRUliIiwiZGF0ZSI6IjIwMjEtMDItMjRUMDY6MDU6MjAuNjA1WiIsImlhdCI6MTYxNDE0NjcyMH0.S6FWVZTzwAqnqyy1-3GL3BuE5cMGRLmHT_ww0MlsOWY
+2023-03-20T09:12:53.961Z-line: con : [object Object]
